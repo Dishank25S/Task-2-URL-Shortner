@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Amaranth&display=swap');
 
 body{
-    background-color: #ffb804;
+    background-color: #a5a097;
     overflow-x: hidden;
 }
 
@@ -10,7 +10,7 @@ body{
     font-weight: 600;
     text-align: center;
     font-size: 3rem;
-    font-family: 'Luckiest Guy', cursive;
+    font-family: system-ui;
     letter-spacing: 0.3rem;
 
 }
@@ -94,14 +94,14 @@ body{
 
 .container #msg{
     color: black;
-    font-family: 'Luckiest Guy', cursive;
+    font-family: system-ui;
     font-size: 1.8rem;
     letter-spacing: 0.1rem;
 
 }
 .container #url-text{
-    color: blue;
-    font-family: 'Amaranth', sans-serif;
+    color: rgb(0, 55, 255);
+    font-family: system-ui;
     font-weight: 800;
     letter-spacing: 0.1rem;
     font-size: 1.5rem;
@@ -110,7 +110,7 @@ body{
 
 .container #tip{
     color: grey;
-    font-family: monospace;
+    font-family: system-ui;
     font-size: 1.5rem;
     font-weight: 600;
 
